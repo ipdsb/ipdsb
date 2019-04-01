@@ -8,4 +8,5 @@ A (for now) global platform to facilitate local action
 
 
 * htmlello univers!
-* foo
+* test
+* test
