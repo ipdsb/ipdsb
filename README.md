@@ -1,5 +1,7 @@
-ipdsb - cc liscensed db exchange of DNA and Seed Samples
-ipdsb - distribiuted exchange and knowlage peering for comunity seed banks
+# ipdsb
+
+* ipdsb - cc liscensed db exchange of DNA and Seed Samples
+* ipdsb - distribiuted exchange and knowlage peering for comunity seed banks
 
 Lets build a github for DNA, seeds, etc.
 Decentralized of cours, interplanetary distribiuted, acting local and universal
@@ -13,23 +15,21 @@ Distribiution tool to peer freely between networks of networks of seed, spore an
 * Universal open mapping of "Tree of life"
 
 
-
 ## see also:
 
-http://www.saatgutkampagne.org/PDF/Resilient_Seed_EN_web.pdf
-http://www.diversifood.eu/wp-content/uploads/2018/07/2018-6-29-CSB-report-workshop.pdf
----
-5.1 Objective „Conservation“ 50
-5.2 Objective „Access and Availability“ 52
-5.3 Objective „Sensitisation“ 53
-5.4 Objective „Training and Capacity Building“ 54
-5.5 Objective „Sustainable Use“ 55
-5.6 Objective „Advocacy and legal advice“ 56
+	http://www.saatgutkampagne.org/PDF/Resilient_Seed_EN_web.pdf
+	http://www.diversifood.eu/wp-content/uploads/2018/07/2018-6-29-CSB-report-workshop.pdf
+	5.1 Objective „Conservation“ 50
+	5.2 Objective „Access and Availability“ 52
+	5.3 Objective „Sensitisation“ 53
+	5.4 Objective „Training and Capacity Building“ 54
+	5.5 Objective „Sustainable Use“ 55
+	5.6 Objective „Advocacy and legal advice“ 56
 
 
 ### network - nodes
-http://www.bgci.org/policy/ipen/
-http://www.alpineseedconservation.eu/index.php/category/news/
+	http://www.bgci.org/policy/ipen/
+	http://www.alpineseedconservation.eu/index.php/category/news/
 
 
 from http://www.alpineseedconservation.eu/index.php/aims/
