@@ -1,16 +1,21 @@
 ipdsb - cc liscensed db exchange of DNA and Seed Samples
-ipdsb - distribiuted exchnage for all comunity seed banks 
+ipdsb - distribiuted exchange and knowlage peering for comunity seed banks
 
-Distribiution mechanism to peer freely between networks of networks of seed, spore and information exchanges
-Crowdsource sequencing of DNA and builing DB of dna of all living beeings before they die out
->github for DNA
+Lets build a github for DNA, seeds, etc.
+Decentralized of cours, interplanetary distribiuted, acting local and universal
+
+Distribiution tool to peer freely between networks of networks of seed, spore and information exchanges
+
+* Gathering and perseving knowlage of seeds and biofactors
+* Postal or local cordinated exchange of seeds
+* In the future hopefully sometime soon, digital, realtime
+* Pushing for Crowdsource sequencing of DNA and builing DB of dna of all living beeings before they die out
+* Universal open mapping of "Tree of life"
 
 
 
+## see also:
 
-# see also:
-
-## the idea
 http://www.saatgutkampagne.org/PDF/Resilient_Seed_EN_web.pdf
 http://www.diversifood.eu/wp-content/uploads/2018/07/2018-6-29-CSB-report-workshop.pdf
 ---
@@ -22,7 +27,7 @@ http://www.diversifood.eu/wp-content/uploads/2018/07/2018-6-29-CSB-report-worksh
 5.6 Objective „Advocacy and legal advice“ 56
 
 
-## network - nodes
+### network - nodes
 http://www.bgci.org/policy/ipen/
 http://www.alpineseedconservation.eu/index.php/category/news/
 
@@ -34,7 +39,7 @@ from http://www.alpineseedconservation.eu/index.php/aims/
 * Develop a network for seed conservation and research in the European Alps, fostering collaboration, development of new scientists, and expanding knowledge on key ecological species...
 
 
-## similar
+### similar
 
 * https://eol.org/
 * http://tolweb.org
@@ -56,20 +61,3 @@ http://hintjens.com/blog:32
 
 * start of as federated wiki
 * become transition to distribiuted model
-
-
-## technical
-
-From hintjens.com/blog:32
----
-Let's recap the requirements:
-* The simplest possible solution that works. There are so many edge cases in ad-hoc networks that every extra feature or functionality becomes a risk.
-* Supports ephemeral ports, so that we can run realistic simulations. If the only way to test is to use real devices, it becomes impossibly expensive and slow to run tests.
-* No root access needed, it must run 100% in user space. We want to ship fully-packaged applications onto devices like mobile phones that we don't own and where root access isn't available.
-* Invisible to system administrators, so we do not need their help to run our applications. Whatever technique we use should be friendly to the network and available by default.
-* Zero configuration apart from installing the applications themselves. Asking the users to do any configuration is giving them an excuse to not use the applications.
-* Fully portable to all modern operating systems. We can't assume we'll be running on any specific OS. We can't assume any support from the operating system except standard user-space networking. We can assume 0MQ and CZMQ are available.
-* Friendly to WiFi networks with up to 100-150 participants. This means keeping messages small and being aware of how WiFi networks scale and how they break under pressure.
-* Protocol-neutral, i.e., our beaconing should not impose any specific discovery protocol. I'll explain what this means a little later.
-* Easy to re-implement in any given language. Sure, we have a nice C implementation, but if it takes too long to reimplement in another language, that excludes large chunks of the 0MQ community. So, again, simple.
-* Fast response time. By this, I mean a new node should be visible to its peers in a very short time, a second or two at most. Networks change shape rapidly. It's OK to take longer, even 30 seconds, to realize a peer has disappeared.
