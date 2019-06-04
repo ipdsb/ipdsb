@@ -10,16 +10,16 @@
 
 Distribution tool to peer information and Seed/DNS freely between networks of networks of seed, spore and information exchanges
 
-* Gathering and preserve knowledge of seeds and biofactors
-* Improve knowledge of the ecology of species through specific projects.
+* Gathering, preserving and Improving knowledge of the ecology of species.
 
 * Postal or direct local coordinated exchange of seeds
 * In the future, hopefully sometime soon, digital, real time
 
-* Pushing for Crowdsource sequencing of DNA and building DB of all DNA
-* Capture all living beings before they go extinct
+* Pushing for Crowdsourced sequencing of DNA
+* Building DB of all DNA - Capture all living beings before they go extinct
 * Make high quality seed material available for conservation, research and restoration. [0]
-* Create Universal open mapping of "Tree of life"
+* Maybe help fight hunger and provide farmers with more knowledge and optimized local seed sources
+* Create Universal open mapping of "Tree of life" [1]
 
 
 ## see also:
@@ -37,8 +37,8 @@ Distribution tool to peer information and Seed/DNS freely between networks of ne
 ### Sources:
 from http://www.alpineseedconservation.eu/index.php/aims/
 
-* Improve knowledge of the ecology of target species through specific research projects.
-* Develop a network for seed conservation and research in the European Alps, fostering collaboration, development of new scientists, and expanding knowledge on key ecological species...
+
+* Develop a network for seed conservation and research in the European Alps, fostering collaboration, development of new scientists, 
 
 
 ### similar & Sources
@@ -49,6 +49,7 @@ from http://www.alpineseedconservation.eu/index.php/aims/
 * m http://www.alpineseedconservation.eu/index.php/aims/ [0]
 * https://en.wikipedia.org/wiki/Wikispecies
 * https://opentreeoflife.github.io/
+* https://web.archive.org/web/20160126130722/http://www.tellapallet.com/tree_of_life.htm [1]
 * https://tree.opentreeoflife.org/opentree/argus/opentree10.4@ott93302
 * http://www.bgci.org/policy/ipen/
 * http://www.alpineseedconservation.eu/index.php/category/news/
@@ -56,8 +57,8 @@ from http://www.alpineseedconservation.eu/index.php/aims/
 * later: https://en.wikipedia.org/wiki/ARKive
 * https://en.wikipedia.org/wiki/Integrated_Taxonomic_Information_System
 * https://upload.wikimedia.org/wikipedia/commons/9/98/A_Novel_Representation_Of_The_Tree_Of_Life.png
-https://www.ecologyandsociety.org/vol21/iss2/art13/
+* https://www.ecologyandsociety.org/vol21/iss2/art13/
 * https://github.com/kgryte/awesome-peer-to-peer
-*https://hpbn.co/
-*http://hintjens.com/blog:32
+* https://hpbn.co/
+* http://hintjens.com/blog:32
 ```
