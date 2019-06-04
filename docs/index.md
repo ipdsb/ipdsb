@@ -1,12 +1,2 @@
-IPDSB - Interplanetary Distributed Spore&Seed Bank
-
-A (for now) global platform to facilitate local action
-
-# test
-## test
-### test
-
-
-* htmlello univers!
-* test
-* test
+  info: https://ipdsb.github.io/ipdsb/
+  git: https://github.com/ipdsb/ipdsb
