@@ -24,7 +24,6 @@ Distribution tool to peer information and Seed/DNS freely between networks of ne
 
 
 ### similar & Sources
-```
 	https://eol.org/
 	http://tolweb.org
 	https://en.wikipedia.org/wiki/Tree_of_life_(biology)
@@ -44,7 +43,9 @@ Distribution tool to peer information and Seed/DNS freely between networks of ne
 	https://hpbn.co/
 	http://hintjens.com/blog:32
 
-## see also:
+
+
+### see also:
 
 	http://www.saatgutkampagne.org/PDF/Resilient_Seed_EN_web.pdf
 	http://www.diversifood.eu/wp-content/uploads/2018/07/2018-6-29-CSB-report-workshop.pdf
