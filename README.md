@@ -1,18 +1,25 @@
 # ipdsb
 
-* ipdsb - cc liscensed db exchange of DNA and Seed Samples
-* ipdsb - distribiuted exchange and knowlage peering for comunity seed banks
+* ipdsb - cc licensed, library and exchange of DNA and Seed Samples
+* ipdsb - distributed exchange and knowledge peering for community seed banks
 
-Lets build a github for DNA, seeds, etc.
-Decentralized of cours, interplanetary distribiuted, acting local and universal
+## Lets build a github for DNA, seeds, etc.
+* Decentralized/distributed
+* interplanetary
+* acting local and universal
 
-Distribiution tool to peer freely between networks of networks of seed, spore and information exchanges
+Distribution tool to peer information and Seed/DNS freely between networks of networks of seed, spore and information exchanges
 
-* Gathering and perseving knowlage of seeds and biofactors
-* Postal or local cordinated exchange of seeds
-* In the future hopefully sometime soon, digital, realtime
-* Pushing for Crowdsource sequencing of DNA and builing DB of dna of all living beeings before they die out
-* Universal open mapping of "Tree of life"
+* Gathering and preserve knowledge of seeds and biofactors
+* Improve knowledge of the ecology of species through specific projects.
+
+* Postal or direct local coordinated exchange of seeds
+* In the future, hopefully sometime soon, digital, real time
+
+* Pushing for Crowdsource sequencing of DNA and building DB of all DNA
+* Capture all living beings before they go extinct
+* Make high quality seed material available for conservation, research and restoration. [0]
+* Create Universal open mapping of "Tree of life"
 
 
 ## see also:
@@ -27,37 +34,30 @@ Distribiution tool to peer freely between networks of networks of seed, spore an
 	5.6 Objective „Advocacy and legal advice“ 56
 
 
-### network - nodes
-	http://www.bgci.org/policy/ipen/
-	http://www.alpineseedconservation.eu/index.php/category/news/
-
-
+### Sources:
 from http://www.alpineseedconservation.eu/index.php/aims/
----
-* Make high quality seed material available for conservation, research and restoration.
+
 * Improve knowledge of the ecology of target species through specific research projects.
 * Develop a network for seed conservation and research in the European Alps, fostering collaboration, development of new scientists, and expanding knowledge on key ecological species...
 
 
-### similar
-
+### similar & Sources
+```
 * https://eol.org/
 * http://tolweb.org
 * https://en.wikipedia.org/wiki/Tree_of_life_(biology)
+* m http://www.alpineseedconservation.eu/index.php/aims/ [0]
 * https://en.wikipedia.org/wiki/Wikispecies
 * https://opentreeoflife.github.io/
 * https://tree.opentreeoflife.org/opentree/argus/opentree10.4@ott93302
+* http://www.bgci.org/policy/ipen/
+* http://www.alpineseedconservation.eu/index.php/category/news/
 * https://en.wikipedia.org/wiki/Encyclopedia_of_Life
 * later: https://en.wikipedia.org/wiki/ARKive
 * https://en.wikipedia.org/wiki/Integrated_Taxonomic_Information_System
-
 * https://upload.wikimedia.org/wikipedia/commons/9/98/A_Novel_Representation_Of_The_Tree_Of_Life.png
 https://www.ecologyandsociety.org/vol21/iss2/art13/
-
 * https://github.com/kgryte/awesome-peer-to-peer
-
-distribiuted via https://hpbn.co/
-http://hintjens.com/blog:32
-
-* start of as federated wiki
-* become transition to distribiuted model
+*https://hpbn.co/
+*http://hintjens.com/blog:32
+```
